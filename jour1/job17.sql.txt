@@ -1,0 +1,5 @@
+mysql> UPDATE etudiants
+    -> SET age=20
+    -> where id =1;
+mysql> SELECT * FROM etudiants
+    -> WHERE nom="Betty";
